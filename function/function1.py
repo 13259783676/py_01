@@ -54,7 +54,7 @@ for i,e in enumerate(list2):
     print(i,e)
 
 #file()用于创建一个 file 对象，它有一个别名叫 open()
-# f = open('E:\python_workspace\demo\py_01\function\test.py','r')
+# f = open('E:\python_workspace\demo\py_01\function\uuid_test.py','r')
 # print(f.read())
 
 #filter() 用于过滤序列，过滤掉不符合条件的元素，返回由符合条件元素组成的新列表
